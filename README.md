@@ -3,26 +3,36 @@
 **BUG REPORT 1**
 
 Priority & Severity: P1 – Critical
+
 Title: The account can't be created
+
 Description: When the users try to create an account, there is no possibility because the field is not created so no order can be passed.
+
 Steps to reproduce:
 1.	Go to www.demoblaze.com
 2.	Try to create an account on the website
 
 Expected result: User should be able to create an account for passing an order.
+
 Actual result: User can’t create an account on the website.
-Test data: -
+
 
 **BUG REPORT 2**
+
 Priority & Severity: P1 – Critical
+
 Title: No password demanded for login
+
 Description: Any user can login at every person’s account from the bank website and see the balance situation.
+
 Steps to reproduce:
 1.	Go to https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
 2.	Try to login with any customer account
 
 Expected result: Anyone should not be able to have visibility at the banking account from the list of that bank user’s.
+
 Actual result: Everybody has access to any account from that bank website.
+
 Test data: the first 2 persons from the baking list accounts.
 
 
