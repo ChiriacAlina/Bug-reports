@@ -16,6 +16,7 @@ Expected result: User should be able to create an account for passing an order.
 
 Actual result: User can’t create an account on the website.
 
+-----------
 
 **BUG REPORT 2**
 
