@@ -1,6 +1,7 @@
 # Bug-reports
 
 **BUG REPORT 1**
+
 Priority & Severity: P1 – Critical
 Title: The account can't be created
 Description: When the users try to create an account, there is no possibility because the field is not created so no order can be passed.
