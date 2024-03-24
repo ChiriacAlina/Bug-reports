@@ -111,6 +111,7 @@ Steps to reproduce:
 Expected result: To be redirected on the webpage needed.
 
 Actual result: Page not found.
+
 ![Mockup bug report 6](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/01c6c7ed-a61b-41df-b56f-1bcb60e086fe)
 
 ------------
