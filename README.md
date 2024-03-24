@@ -1,10 +1,10 @@
 # Bug-reports
-
+-------------
 **BUG REPORT 1**
 
 Priority & Severity: P1 – Critical
 
-Title: The account can't be created
+**Title: The account can't be created**
 
 Description: When the users try to create an account, there is no possibility because the field is not created so no order can be passed.
 
@@ -22,7 +22,7 @@ Actual result: User can’t create an account on the website.
 
 Priority & Severity: P1 – Critical
 
-Title: No password demanded for login
+**Title: No password demanded for login**
 
 Description: Any user can login at every person’s account from the bank website and see the balance situation.
 
@@ -41,7 +41,7 @@ Test data: the first 2 persons from the baking list accounts.
 
 Priority & Severity: P1 – Critical
 
-Title: No security code asked for bank withdrawals
+**Title: No security code asked for bank withdrawals**
 
 Description: Everybody can make a bank withdrawals for any user of thank bank website’s users.
 
@@ -61,7 +61,7 @@ Test data: the first person with balance available.
 
 Priority & Severity: P6 – Low
 
-Title: Missing picture from the website (attachment)
+**Title: Missing picture from the website (attachment)**
 
 Description: No text shown for the missing picture (see the mockup) seen in the right of the cigarettes part.
 
@@ -73,6 +73,7 @@ Steps to reproduce:
 Expected result: Have no missing pictures on the website.
 
 Actual result: Seeing an missing picture on the website.
+![Mockup bug 4 - globasha](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/084e1443-aa84-4025-81f5-d948d536e5a6)
 
 ---------
 
