@@ -43,7 +43,7 @@ Priority & Severity: P1 – Critical
 
 **Title: No security code asked for bank withdrawals**
 
-Description: Everybody can make a bank withdrawals for any user of thank bank website’s users.
+Description: Everybody can make a bank withdrawals for any user from this bank website.
 
 Steps to reproduce:
 1.	Go to https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
