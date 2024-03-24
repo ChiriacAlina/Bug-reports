@@ -81,7 +81,7 @@ Actual result: Seeing an missing picture on the website.
 
 Priority & Severity: P4 – Normal
 
-Title: “Error 404” on the English Menu
+**Title: “Error 404” on the English Menu**
 
 Description: There is no information translated on the English menu and the 404 error is received.
 
@@ -100,7 +100,7 @@ Actual result: “Error 404” found on the English Menu.
 
 Priority & Severity: P5 – High
 
-Title: Broken link on the website (attachment)
+**Title: Broken link on the website** (attachment)
 
 Description: Broken link for the first option of the “Linkuri utile” from the website.
 
@@ -111,6 +111,7 @@ Steps to reproduce:
 Expected result: To be redirected on the webpage needed.
 
 Actual result: Page not found.
+![Mockup bug report 6](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/01c6c7ed-a61b-41df-b56f-1bcb60e086fe)
 
 ------------
 
@@ -118,7 +119,7 @@ Actual result: Page not found.
 
 Priority & Severity: P5 – Normal
 
-Title: ‘’Lorem ipsum’’ information in the ‘’About us’’ page
+**Title: ‘’Lorem ipsum’’ information in the ‘’About us’’ page**
 
 Description: No information about the company in the “About us” page.
 
@@ -136,7 +137,7 @@ Actual result: ‘’Lorem ipsum’’ information found in the ‘’About us�
 
 Priority & Severity: P4 – Normal
 
-Title: Video presentation of the town, not working
+**Title: Video presentation of the town, not working**
 
 Description: The video presentation of the town Fieni is not working when the user is clicking on the button.
 
@@ -155,7 +156,7 @@ Actual result: The button for seeing the video presentation of the town Fieni is
 
 Priority & Severity: P2 – High
 
-Title: The Mandatory field – First Name - is not Mandatory (attachment)
+**Title: The Mandatory field – First Name - is not Mandatory** (attachment)
 
 Description: The ‘’First Name’’ field is noted as Mandatory but actually you can submit the demand without any text in there. Check the Mockup.
 
@@ -167,4 +168,5 @@ Steps to reproduce:
 Expected result: To have the First Name field, mandatory.
 
 Actual result: The first Name field is not mandatory as indicated.
-Actual result: The first Name field is not mandatory as indicated.
+![mockup bug report 9](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/e47e857f-9a0d-498f-9e93-e5e4e67d14ee)
+
