@@ -1,5 +1,5 @@
 # Bug-reports
--------------
+
 **BUG REPORT 1**
 
 Priority & Severity: P1 – Critical
