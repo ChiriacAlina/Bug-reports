@@ -189,6 +189,7 @@ Steps to reproduce:
 Expected result: To be redirected on the Copywriter’s webpage: condrabusiness.ro.
 
 Actual result: The Website for the Copywriter is not working.
+
 ![image](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/288d3be7-6cab-4d81-8082-eb543a545841)
 ![image](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/7bd2de2b-7145-4c5e-b728-b9e85fbb6580)
 
