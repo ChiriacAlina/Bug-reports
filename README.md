@@ -171,3 +171,27 @@ Expected result: To have the First Name field, mandatory.
 Actual result: The first Name field is not mandatory as indicated.
 ![mockup bug report 9](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/e47e857f-9a0d-498f-9e93-e5e4e67d14ee)
 
+-----------
+
+**BUG REPORT 10**
+
+Priority & Severity: P5 – Low
+
+**Title: Broken link (attachment)**
+
+Description: The link from the Copywriter is not working. See the Mockup also.
+
+Steps to reproduce:
+1.	Go to https://www.comunamatca.ro/despre-matca
+2.	Go down on the website to the Copywriter part
+3.	Click to the link: condrabusiness.ro
+
+Expected result: To be redirected on the Copywriter’s webpage: condrabusiness.ro.
+
+Actual result: The Website for the Copywriter is not working.
+![image](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/288d3be7-6cab-4d81-8082-eb543a545841)
+![image](https://github.com/ChiriacAlina/Bug-reports/assets/160241958/7bd2de2b-7145-4c5e-b728-b9e85fbb6580)
+
+
+
+
